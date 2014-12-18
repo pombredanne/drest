@@ -2,13 +2,13 @@
 from setuptools import setup, find_packages
 import sys, os
 
-VERSION = '0.9.12'
+VERSION = '0.9.13'
 
 setup(name='drest',
     version=VERSION,
     description="dRest API Client Library for Python",
     long_description="dRest API Client Library for Python",
-    classifiers=[], 
+    classifiers=[],
     keywords='rest api',
     author='BJ Dierkes',
     author_email='derks@datafolklabs.com',
